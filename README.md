@@ -15,3 +15,5 @@ A small JavaScript utility library for easier number randomization. Shuffle an a
 
 #### [Pronounly](https://pronounly.netlify.app) [[repo](https://github.com/harlessmark/pronounly)]
 Pronounly helps you share your gender pronoun with other people by pasting a link in your bio. 
+
+[Email me!](mailto:mh@omg.lol)
