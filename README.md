@@ -1,7 +1,5 @@
 ## Hello 👋 I'm Mark
 
-***
-
 I'm a frontend web developer with an affinity to web usability and design.
 
 ### Projects
