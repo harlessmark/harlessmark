@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋 I'm Mark, a Frontend Developer
+
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+
 
 <!--
 **harlessmark/harlessmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
