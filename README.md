@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Mark
 
-I'm a frontend web developer with an affinity to web usability and design. Outside of programming, my interests are running, house plants, reading, and spending time with my wife and two dogs.
+I'm a frontend web developer with an affinity to web usability and design. Outside of programming, my interests are running, house plants, reading, and spending time with my wife and two dogs. [Email me!](mailto:mh@omg.lol)
 
 ### Projects
 
@@ -15,5 +15,3 @@ A small JavaScript utility library for easier number randomization. Shuffle an a
 
 #### [Pronounly](https://pronounly.netlify.app) [[repo](https://github.com/harlessmark/pronounly)]
 Pronounly helps you share your gender pronoun with other people by pasting a link in your bio. 
-
-[Email me!](mailto:mh@omg.lol)
