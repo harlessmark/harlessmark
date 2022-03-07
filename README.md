@@ -12,6 +12,3 @@ Easily remember and share your Nintendo Switch Friend Code. Built with React, Py
 
 #### [totally-random](https://ninnycode.com) [[repo](https://github.com/harlessmark/totally-random)]
 A small JavaScript utility library for easier number randomization. Shuffle an array, get a random number between two numbers, "rig" certain items to increase or decrease probabilities, and more!
-
-#### [Pronounly](https://pronounly.netlify.app) [[repo](https://github.com/harlessmark/pronounly)]
-Pronounly helps you share your gender pronoun with other people by pasting a link in your bio. 
