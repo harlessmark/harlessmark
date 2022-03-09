@@ -13,5 +13,5 @@ Easily remember and share your Nintendo Switch Friend Code. Built with React, Py
 #### [totally-random](https://ninnycode.com) [[repo](https://github.com/harlessmark/totally-random)]
 A small JavaScript utility library for easier number randomization. Shuffle an array, get a random number between two numbers, "rig" certain items to increase or decrease probabilities, and more!
 
-#### DLI Calculator [[repo](https://github.com/harlessmark/dli-calculator)] (work in progress)
+#### DLI Calculator (work in progress) [[repo](https://github.com/harlessmark/dli-calculator)]
 Combining my love for plants and programming to showcase my skills with React, SCSS, and useContext.
