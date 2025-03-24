@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Mark
 
-I'm a frontend web developer with an affinity to web usability and design. Outside of programming, my interests are running, house plants, reading, and spending time with my wife and two dogs. [Email me!](harless@duck.com)
+I'm a frontend web developer with an affinity to web usability and design. Outside of programming, my interests are running, house plants, reading, and spending time with my wife and two dogs. [Email me!](misplaced@duck.com)
 
 ### Projects
 
